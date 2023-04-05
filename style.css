@@ -7,13 +7,13 @@
     color: white;   
     display:flex;
     justify-content: space-around;
-    padding: 24px 0; 
-    border: 3px solid black;
-    border-radius: 5%;
+    padding: 12px 0; 
+    border: 2px solid black;
+    border-radius: 40px;
     }
 
   .imagem-cabecalho {
-    width: 100px;
+    width: 120px;
   }
 
   .cabecalho-lista-item {
@@ -23,5 +23,3 @@
     font-size: 24px;
     font-style: italic
   }
-
-
